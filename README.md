@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning ,FullStack **REACT**
 
-- 👨‍💻Portfolio [https://portfolio-teal-delta-69.vercel.app/](https://portfolio-teal-delta-69.vercel.app/)
+- 👨‍💻Portfolio [https://vmkmanoj-dev-portfolio.vercel.app/](https://vmkmanoj-dev-portfolio.vercel.app/)
 
 - 📫 How to reach me **vmkmano13@gmail.com**
 
